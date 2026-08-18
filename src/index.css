@@ -51,6 +51,11 @@ a {
 .reveal.delay-3 { transition-delay: 0.6s; }
 
 /* Navbar */
+.navbar-logo-img {
+  height: 60px;
+  object-fit: contain;
+}
+
 .navbar {
   position: absolute;
   top: 0;
